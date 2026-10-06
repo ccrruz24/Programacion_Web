@@ -1,0 +1,25 @@
+p{
+    background-color: blue;
+}
+
+.my_parag:hover{
+    background-color: red;
+    
+}
+
+.enlaces:hover{
+    background-color: blueviolet;
+}
+
+ul li:hover{
+    background-color: brown;
+    color: white;
+}
+
+ul li:first-child{
+    background-color: aquamarine;
+}
+
+ul li:last-child{
+    background-color: powderblue;
+}
