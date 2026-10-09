@@ -1,5 +1,25 @@
+@font-face {
+    font-family: "myStyle";
+    src: url("../fonts/Hey\ Comic.ttf");
+}
+
+.my_p_w_shadow{
+    text-shadow: green 1px 1px 0px;
+    font-family: "myStyle";
+}
+
 p{
-    background-color: blue;
+    text-align: justify;
+}
+
+
+h1,h2{
+    font-family:"myStyle";
+}
+
+.p1{
+    text-align: justify;
+    text-decoration: greenyellow wavy underline;
 }
 
 .my_parag:hover{
