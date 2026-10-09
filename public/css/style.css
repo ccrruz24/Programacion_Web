@@ -43,3 +43,19 @@ ul li:first-child{
 ul li:last-child{
     background-color: powderblue;
 }
+
+.prueba{
+    background-color: greenyellow;
+    border: 5px solid green;
+    border-radius: 100 px;
+    padding: 8px;
+}
+
+
+.prueba1{
+    background-color: rgb(85, 105, 221);
+    border: 5px solid rgb(9, 36, 158);
+    border-radius: 100 px;
+    padding: 3px;
+}
+
