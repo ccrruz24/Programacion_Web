@@ -62,3 +62,12 @@ h2,h3,h4{
     padding: 3px;
 }
 
+.bi{
+    text-align: center;
+    background-image: url("../../image/imagen.jpg");
+    background-size: auto; 
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
