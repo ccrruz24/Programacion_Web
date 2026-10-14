@@ -46,28 +46,41 @@ ul li:last-child{
 
 .prueba{
     background-color: greenyellow;
-    border: 5px solid green;
-    border-radius: 100 px;
+    border: 5px outset green;
+    border-radius: 10px;
     padding: 8px;
-}
-
-h2,h3,h4{
-    margin: 10px;
 }
 
 .prueba1{
     background-color: rgb(85, 105, 221);
-    border: 5px solid rgb(9, 36, 158);
-    border-radius: 100 px;
+    border: 5px solid rgb(68, 80, 131);
+    border-radius: 10px;
     padding: 3px;
 }
+
+.prueba0{
+    position: sticky;
+    top: 15px;
+    background-color: rgb(105, 221, 151);
+    border: 5px solid rgb(5, 63, 17);
+    border-radius: 10px;
+    padding: 3px;
+}
+
+h2,h3{
+    margin: 10px;
+}
+
 
 .bi{
     text-align: center;
     background-image: url("../../image/imagen.jpg");
-    background-size: auto; 
+    background-size: contain; 
     background-repeat: no-repeat;
     background-position: center;
+    
 }
+
+
 
 
